@@ -1,0 +1,200 @@
+student,Age,Course,stream,Results,Gender,sucess ,Course-Catagory,stream-catagory,result-scale,future-succes
+1,19,Software Engineering ,A/L - Maths,ACC,Male,yes,Software,Maths,Good,yes
+2,21,Software Engineering ,A/L - Maths,ACB,Male,yes,Software,Maths,Good,yes
+3,19,Software Engineering,A/L - Maths,ABB,Male,yes,Software,Maths,Good,yes
+4,25,Software Engineering ,A/L - Maths,BBB,Male,yes,Software,Maths,Good,yes
+5,21,Software Engineering ,A/L- Engineering Technology ,CSW,Male,no,Software,EngTech,Worse,no
+6,18,Software Engineering,A/L - Maths,2A 2B 4C,Male,yes,Software,Maths,Intermediate,yes
+7,23,Software Engineering ,A/L - Bio,2B 1C,Male,yes,Software,Bio,Good,yes
+8,17,Network Engineering,A/L - Maths,2B 1C,Male,yes,IT,Maths,Good,yes
+9,21,Computing,A/L-Maths,2C 1S,Male,yes,Computing,Maths,Good,yes
+10,20,Software Engineering ,A/L- Engineering Technology ,3S,Male ,no,Software,EngTech,Worse,no
+11,19,Software Engineering,A/L-Commerce Stream,2B 1C,Male,no,Software,Commerce,Worse,no
+12,23,Application Development,A/L-Maths,3B,Male,yes,Software,Maths,Good,yes
+13,22,Application Development,A/L-Bio,1A 2B,Male,yes,Software,Bio,Good,yes
+14,22,Application Development,A/L-Bio,1A 2B,Female,yes,Software,Bio,Good,yes
+15,20,Software Engineering,A/L-Maths,2A 1B,Male,yes,Software,Maths,Good,yes
+16,23,Network Engineering,A/L-Maths,3A,Female,yes,IT,Maths,Good,yes
+17,20,Business Management,A/L-Commerce,3A,Female,yes,Business,Commerce,Good,yes
+18,19,Business Management,A/L-Commerce,2A 1B,Female,yes,Business,Commerce,Good,yes
+19,23,AAT,A/L-Commerce,3B,Female,yes,Business,Commerce,Good,yes
+20,21,Network Engineering,A/L-E.tech,3C,Male,no,IT,E-Tech,Worse,no
+21,23,Col Management,A/L-Commerce,3A,Female,yes,Business,Commerce,Good,yes
+22,25,Shipping,A/L commerce,3C,Female,yes,Business,Commerce,Intermediate,yes
+23,23,Automobile Eng,A/L Maths,3B,Male,yes,Engineering,Maths,Intermediate,yes
+24,23,Marine Eng,A/L Maths,2B 1C,Male,yes,Engineering,Maths,Intermediate,yes
+25,30,Computer Instructor,A/L Maths,3C,Female,yes,Teaching,Maths,Intermediate,yes
+26,35,MSc Reading-UoM,A/L Maths,3A,Male,yes,Reasearch,Maths,Intermediate,yes
+27,25,Msc Reading -UoM,A/L- Maths,2A B,Male,yes,Reasearch,Maths,Good,yes
+28,32,MSc in  App.Chemistry,A/L Bio,2B 1C,Male,yes,Reasearch,Bio,Good,yes
+29,36,Phd Reading,A/L-Maths,2A 1B,Male,yes,Reasearch,Maths,Good,yes
+30,36,MSc Reading-UoM,A/L-Maths,3A,Male,yes,Reasearch,Maths,Good,yes
+31,21,Automobile Eng,A/L-Maths,2C 1S,Male,no,Engineering,Maths,Worse,no
+32,19,Business Management,A/L-Commerce,3C,Female,yes,Business,Commerce,Good,yes
+33,21,Software Enginnering,A/L-Maths,3B,Female,yes,Software,Maths,Good,yes
+34,25,Network Engineering,A/L-Maths,3S,Female,yes,IT,Maths,Worse,yes
+35,22,Application Development,A/L-Commerce,3B,Female,no,Software,Commerce,Worse,no
+36,20,Business Management,A/L Bio,3S,Female,no,Business,Bio,Worse,no
+37,24,Accounting,A/L Commerce,3C,Female,yes,Business,Commerce,Intermediate,yes
+38,20,Software Enginnering,A/L-Maths,2S 1W,Female,no,Software,Maths,Worse,no
+39,22,Software Enginnering,A/L-Maths,2C 1S,Female,no,Software,Maths,Worse,no
+40,22,Network Engineering,A/L-Maths,1A 1B 1C,Female,yes,IT,Maths,Good,yes
+41,21,Software Enginnering,A/L-Maths,2C 1S,Female,no,Software,Maths,Worse,no
+42,22,Business Management,A/L Commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+43,22,Network Engineering,A/L-Maths,2B 1C,Female,yes,IT,Maths,Intermediate,yes
+44,22,Application Development,A/L Bio,3S,Female,no,Software,Bio,Worse,no
+45,23,Software Enginnering,A/L-E.tech,2B 1C,Male,yes,Software,E-Tech,Intermediate,yes
+46,22,Software Enginnering,A/L-Maths,3W,Female,no,Software,Maths,Worse,no
+47,18,Business Management,A/L-Maths,C S W,Female,no,Business,Maths,Worse,no
+48,19,Network Engineering,A/L Bio, B C S,Female,yes,IT,Bio,Intermediate,yes
+49,23,Software Enginnering,A/L Bio,3C,Male,yes,Software,Bio,Intermediate,yes
+50,20,Business Management,A/L commerce,2A  B,Male,yes,Business,Commerce,Good,yes
+51,27,Accounting,A/L commerce,3B,Male,yes,Business,Commerce,Intermediate,yes
+52,30,Software Enginnering,A/L-Maths,B S C,Male,yes,Software,Maths,Intermediate,yes
+53,23,Software Enginnering,A/L-Maths,3C,Male,yes,Software,Maths,Intermediate,yes
+54,29,Business Management,A/L-Maths,3S,Male,yes,Business,Maths,Worse,yes
+55,22,Software Enginnering,A/L Bio,3S,Male,no,Software,Bio,Worse,no
+56,22,Software Enginnering,A/L commerce,2C 1S,Male,no,Software,Commerce,Worse,no
+57,19,Business Management,A/L-Maths,3B,Female,yes,Business,Maths,Intermediate,yes
+58,20,Software Enginnering,A/L-E.tech, B C S,Female,no,Software,E-Tech,Intermediate,no
+59,21,Accounting,A/L-E.tech,3B,Female,yes,Business,E-Tech,Good,yes
+60,25,Business Management,A/L commerce,1A 1B 1C,Female,yes,Business,Commerce,Good,yes
+61,25,Business Management,A/L commerce,2C 1S,Female,yes,Business,Commerce,Intermediate,yes
+62,20,Business Management,A/L Bio, B C S,Female,yes,Business,Bio,Intermediate,yes
+63,22,Business Management,A/L Bio,2C 1S,Female,yes,Business,Bio,Intermediate,yes
+64,23,Network Engineering,A/L-E.tech,2C 1S,Female,no,IT,E-Tech,Intermediate,no
+65,20,Application Development,A/L Bio, B C S,Male,yes,Software,Bio,Intermediate,yes
+66,21,Network Engineering,A/L-E.tech,2C 1S,Female,no,IT,E-Tech,Intermediate,no
+67,20,Accounting,A/L Bio, B C S,Female,yes,Software,Bio,Intermediate,yes
+68,20,Software Enginnering,A/L-Maths,2C 1S,Female,yes,Software,Maths,Intermediate,yes
+69,19,Network Engineering,A/L-Maths, B C S,Female,yes,IT,Maths,Intermediate,yes
+70,20,Network Engineering,A/L-Maths,2C 1S,Female,yes,IT,Maths,Intermediate,yes
+71,21,Business Management,A/L Bio,2C 1S,Female,yes,Business,Bio,Intermediate,yes
+72,21,Software Enginnering,A/L-Maths,1A 1B 1C,Male,yes,Software,Maths,Good,yes
+73,19,Business Management,A/L Bio,A B B,Female,yes,Business,Bio,Good,yes
+74,22,Accounting,A/L Bio,3B 3C 3S,Female,yes,Accounting,Bio,Good,yes
+75,22,Network Engineering,A/L-Maths, B C S,Female,yes,IT,Maths,Intermediate,yes
+76,21,Software Enginnering,A/L-E.tech, B C S,Female,yes,Software,E-Tech,Intermediate,yes
+77,19,Business Management,A/L commerce,2C 1S,Female,yes,Business,Commerce,Intermediate,yes
+78,25,Business Management,A/L commerce,1A 2C,Male,yes,Business,Commerce,Good,yes
+79,21,Accounting,A/L commerce,2B 1C,Male,yes,Business,Commerce,Intermediate,yes
+80,22,Network Engineering,A/L-Maths,2S 1W,Male,no,IT,Maths,Worse,no
+81,19,Network Engineering,A/L-Maths,3S,Male,no,IT,Maths,Worse,no
+82,20,Application Development,A/L commerce,2C 1S,Male,no,Software,Commerce,Worse,no
+83,21,Network Engineering,A/L-E.tech,1B 1C 1S,Male,yes,IT,E-Tech,Intermediate,yes
+84,20,Software Enginnering,A/L-E.tech,1A 1B 1C,Male,yes,Software,E-Tech,Good,yes
+85,21,Software Enginnering,A/L-Maths,2B 1C,Male,yes,Software,Maths,Intermediate,yes
+86,20,Network Engineering,A/L-E.tech,A B C,Male,yes,IT,E-Tech,Good,yes
+87,19,Network Engineering,A/L-E.tech,C C B,Female,yes,IT,E-Tech,Intermediate,yes
+88,20,Accounting,A/L commerce,2B 1C,Female,yes,Business,Commerce,Intermediate,yes
+89,19,Software Enginnering,A/L commerce,2C 1S,Female,yes,Software,Commerce,Intermediate,yes
+90,18,Software Enginnering,A/L Bio, B C S,Female,yes,Software,Bio,Intermediate,yes
+91,16,Software Enginnering,A/L Bio, B C S,Female,yes,Software,Bio,Intermediate,yes
+92,22,Network Engineering,A/L-E.tech,2C 1S,Female,yes,IT,E-Tech,Intermediate,yes
+93,20,Business Management,A/L Bio, B C S,Female,yes,Business,Bio,Intermediate,yes
+94,21,Network Engineering,A/L-E.tech,2B 1C,Female,yes,IT,E-Tech,Intermediate,yes
+95,19,Accounting,A/L commerce,2C 1S,Female,yes,Business,Commerce,Intermediate,yes
+96,16,Network Engineering,A/L-Maths,1A 1B 1C,Female,yes,IT,Maths,Good,yes
+97,17,Network Engineering,A/L-E.tech,1B 1C 1S,Female,yes,IT,E-Tech,Intermediate,yes
+98,20,Network Engineering,A/L-Maths, B C S,Female,yes,IT,Maths,Intermediate,yes
+99,22,Network Engineering,A/L-E.tech,1B 1C 1S,Female,yes,IT,E-Tech,Intermediate,yes
+100,25,Application Development,A/L-Maths,2C 1S,Female,yes,Software,Maths,Intermediate,yes
+101,23,Network Engineering,A/L-E.tech,1C 2S,Female,yes,IT,E-Tech,Intermediate,yes
+102,20,Business Management,A/L commerce, B C S,Female,yes,Business,Commerce,Intermediate,yes
+103,21,Business Management,A/L commerce,1A 1C 1S,Female,yes,Business,Commerce,Intermediate,yes
+104,20,Accounting,A/L commerce,2C 1S,Female,yes,Business,Commerce,Intermediate,yes
+105,25,Network Engineering,A/L commerce,1A 1B 1C,Female,yes,IT,Commerce,Good,yes
+106,19,Software Enginnering,A/L-E.tech,C C B,Female,yes,Software,E-Tech,Intermediate,yes
+107,17,Software Enginnering,A/L-Maths, B C S,Female,yes,Software,Maths,Intermediate,yes
+108,20,Software Enginnering,A/L-Maths,3S,Female,no,Software,Maths,Intermediate,no
+109,26,Software Enginnering,A/L-E.tech,2C 1S,Female,no,Software,E-Tech,Intermediate,no
+110,24,Software Enginnering,A/L-E.tech,2B 1C,Female,yes,Software,E-Tech,Intermediate,yes
+111,22,Network Engineering,A/L-Maths,2C 1S,Female,no,IT,Maths,Intermediate,no
+112,19,Application Development,A/L Bio,2C 1S,Female,no,Software,Bio,Worse,no
+113,18,Application Development,A/L commerce,1A 1B 1S,Female,yes,Software,Commerce,Good,yes
+114,19,Accounting,A/L commerce,2A 1C,Female,yes,Accounting,Commerce,Good,yes
+115,22,Application Development,A/L commerce, B C S,Female,yes,Software,Commerce,Intermediate,yes
+116,21,Network Engineering,A/L-Maths,2C 1S,Female,yes,IT,Maths,Intermediate,yes
+117,22,Business Management,A/L commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+118,19,Application Development,A/L-E.tech,2B 1C,Female,yes,Software,E-Tech,Intermediate,yes
+119,18,Application Development,A/L Arts,3A,Female,yes,Software,Arts,Good,yes
+120,20,Business Management,A/L Bio,2B 1S,Female,yes,Business,Bio,Intermediate,yes
+121,17,Application Development,A/L Arts, B C S,Female,yes,Software,Arts,Intermediate,yes
+122,17,Accounting,A/L commerce,2S 1C,Male,no,Business,Commerce,Worse,no
+123,23,Business Management,A/L Arts,3S,Female,no,Business,Arts,Worse,no
+124,21,Application Development,A/L Arts,3A,Female,yes,Software,Arts,Good,yes
+125,20,Application Development,A/L Arts,3B,Female,no,Software,Arts,Worse,no
+126,19,Network Engineering,A/L commerce,2C 1S,Female,no,IT,Commerce,Worse,no
+127,20,Business Management,A/L commerce,2B 1S,Female,no,Business,Commerce,Worse,no
+128,19,Network Engineering,A/L-E.tech,2B 1S,Female,no,IT,E-Tech,Worse,no
+129,18,Application Development,A/L commerce, B C S,Female,no,Software,Commerce,Worse,no
+130,19,Accounting,A/L Bio,1A 1B 1C,Female,yes,Business,Bio,Good,yes
+131,20,Accounting,A/L commerce,2B 1S,Male,yes,Business,Commerce,Intermediate,yes
+132,21,Business Management,A/L commerce,B S S,Male,yes,Business,Commerce,Intermediate,yes
+133,20,Application Development,A/L-E.tech,2C 1S,Male,no,Software,E-Tech,Worse,no
+134,20,Software Enginnering,A/L-Maths,1C 2S,Male,no,Software,Maths,Worse,no
+135,24,Software Enginnering,A/L-Maths,4A 4B 1C,Male,yes,Software,Maths,Good,yes
+136,24,Application Development,A/L-Maths,3C 1S,Female,no,Software,Maths,Worse,no
+137,23,Software Enginnering,A/L-Maths,B S S,Female,yes,Software,Maths,Intermediate,yes
+138,25,Accounting,A/L commerce,2C 1S,Male,no,Business,Commerce,Worse,no
+139,17,Application Development,A/L commerce, B C S,Female,no,Software,Commerce,Worse,no
+140,20,Application Development,A/L-Maths,A B C,Male,yes,Software,Maths,Good,yes
+141,25,Network Engineering,A/L commerce,B B C,Male,no,IT,Commerce,Intermediate,no
+142,20,Business Management,A/L commerce, B C S,Female,yes,Business,Commerce,Intermediate,yes
+143,21,Accounting,A/L commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+144,20,Business Management,A/L commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+145,21,Application Development,A/L commerce,2B 1S,Female,no,Software,Commerce,Worse,no
+146,20,Business Management,A/L commerce,2A 1C,Female,yes,Business,Commerce,Good,yes
+147,22,Accounting,A/L commerce,1A 1B 1C,Female,yes,Business,Commerce,Good,yes
+148,22,Business Management,A/L commerce,3B,Female,yes,Business,Commerce,Intermediate,yes
+149,20,Network Engineering,A/L commerce,2C 1S,Female,no,IT,Commerce,Worse,no
+150,21,Accounting,A/L commerce,1A 1B 1C,Female,yes,Business,Commerce,Good,yes
+151,17,Accounting,A/L commerce,2C 1B,Male,no,Business,Commerce,Worse,no
+152,22,Accounting,A/L commerce,1A 1C 1S,Female,yes,Business,Commerce,Good,yes
+153,20,Accounting,A/L commerce,2B 1S,Female,yes,Business,Commerce,Intermediate,yes
+154,22,Accounting,A/L commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+155,22,Network Engineering,A/L-Maths,2C 1S,Male,no,IT,Maths,Worse,no
+156,21,Network Engineering,A/L-Maths,3S,Male,no,IT,Maths,Worse,no
+157,22,Business Management,A/L commerce,2B 1S,Male,yes,Business,Commerce,Intermediate,yes
+158,17,Business Management,A/L commerce,2C 1S,Male,yes,Business,Commerce,Intermediate,yes
+159,20,Business Management,A/L commerce,2B 1C,Female,yes,Business,Commerce,Intermediate,yes
+160,22,Network Engineering,A/L Bio,2C 1S,Female,no,IT,Bio,Worse,no
+161,21,Network Engineering,A/L commerce,A B C,Female,no,IT,Commerce,Worse,no
+162,20,Network Engineering,A/L commerce,A B B,Female,yes,IT,Commerce,Good,yes
+163,22,Accounting,A/L commerce,2B 1S,Female,yes,Business,Commerce,Intermediate,yes
+164,21,Network Engineering,A/L commerce,A B C,Female,no,IT,Commerce,Good,no
+165,19,Accounting,A/L commerce,2C 1S,Male,no,Business,Commerce,Worse,no
+166,20,Business Management,A/L commerce,2B 1S,Male,yes,Business,Commerce,Intermediate,yes
+167,21,Accounting,A/L commerce,2A B,Male,yes,Business,Commerce,Intermediate,yes
+168,22,Accounting,A/L commerce,2C 3S,Female,no,Business,Commerce,Worse,no
+169,21,Software Enginnering,A/L-Maths,1C 2S,Male,no,Software,Maths,Worse,no
+170,18,Network Engineering,A/L-Maths,3B,Female,yes,IT,Maths,Intermediate,yes
+171,19,Software Enginnering,A/L-Maths,A B S,Male,yes,Software,Maths,Good,yes
+172,20,Software Enginnering,A/L-Maths,C C C,Male,no,Software,Maths,Worse,no
+173,22,Accounting,A/L commerce,2C 1S,Female,no,Business,Commerce,Worse,no
+174,22,Network Engineering,A/L Bio,A C S,Male,yes,IT,Bio,Good,yes
+175,26,Business Management,A/L commerce,B B C,Male,yes,Business,Commerce,Good,yes
+176,20,Business Management,A/L commerce,A A S,Female,yes,Business,Commerce,Good,yes
+177,21,Software Enginnering,A/L commerce,B C C,Female,no,Software,Commerce,Worse,no
+178,19,Accounting,A/L commerce,A C S,Female,yes,Business,Commerce,Good,yes
+179,23,Software Enginnering,A/L-Maths,2C 1S,Female,no,Software,Maths,Worse,no
+180,23,Business Management,A/L commerce,C C S,Female,no,Business,Commerce,Worse,no
+181,17,Network Engineering,A/L Bio,3C,Female,no,IT,Bio,Worse,no
+182,18,Business Management,A/L commerce,C C S,Male,no,Business,Commerce,Intermediate,no
+183,24,Software Enginnering,A/L commerce,B C S,Male,no,Software,Commerce,Intermediate,no
+184,21,Business Management,A/L commerce,2A 1S,Male,yes,Business,Commerce,Good,yes
+185,20,Network Engineering,A/L commerce,2B 1C,Male,no,IT,Commerce,Intermediate,no
+186,23,Software Enginnering,A/L commerce,A B C,Female,no,Software,Commerce,Good,no
+187,21,Accounting,A/L commerce,2C 1S,Female,yes,Business,Commerce,Intermediate,yes
+188,21,Accounting,A/L commerce,3C,Female,yes,Business,Commerce,Intermediate,yes
+189,21,Accounting,A/L commerce,1B 2S,Female,yes,Business,Commerce,Intermediate,yes
+190,24,Business Management,A/L commerce,1A 1B 1C,Female,yes,Business,Commerce,Intermediate,yes
+191,23,Accounting,A/L commerce,3B,Female,yes,Business,Commerce,Intermediate,yes
+192,19,Network Engineering,A/L-Maths,1B 2S,Male,no,IT,Maths,Intermediate,no
+193,20,Network Engineering,A/L-Maths, 2C 1W,Male,no,IT,Maths,Worse,no
+194,23,Software Enginnering,A/L-Maths,1A 2C,Male,yes,Software,Maths,Good,yes
+195,19,Software Enginnering,A/L-Maths,1C 2S,Male,no,Software,Maths,Worse,no
+196,22,Network Engineering,A/L commerce,1A 1C 1S,Female,yes,IT,Commerce,Good,yes
+197,21,Business Management,A/L commerce,1C 2S,Male,no,Business,Commerce,Worse,no
+198,23,Accounting,A/L commerce,2C 1S,Male,no,Business,Commerce,Worse,no
+199,22,Network Engineering,A/L-Maths,2C 1S,Male,no,IT,Maths,Worse,no
