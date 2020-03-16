@@ -19,3 +19,16 @@ the details of graduated students from the Esoft metro campus.
 •	Increase the number of graduates of Esoft metro campus by suggesting
 the proper course from the beginning to the students and decrees the
 number of course dropouts at the Esoft metro campus.
+
+
+Classifying results as Good, Intermediate and Worse. 
+
+We did not sorted data becuase, the dimension of the result varies. So intially data was classified as Good,Intermediate and Worse manually. 
+
+1. Sort results-scale column by decending order(data/StudentDetails.csv)
+
+	1. 1A 1C 1S - ACC - Good
+	2. 3C - 1B 2S - Intermediate
+	3. CSW - 2C 1S - Worse
+
+ 	  
