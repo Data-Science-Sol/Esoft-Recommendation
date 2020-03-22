@@ -31,6 +31,15 @@ df.replace(con_stream, inplace=True)
 df.to_csv('preprocessed_student_details.csv')
 
 #%%
+
+
+df1 = pd.read_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_ach.csv')
+
+
+
+
+
+#%%
 #stream = df.groupby('Stream(A//L,O/L)').sum()
 
 
