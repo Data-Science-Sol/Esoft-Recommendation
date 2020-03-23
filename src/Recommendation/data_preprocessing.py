@@ -9,6 +9,7 @@ Data Science Project
 """
 
 import pandas as pd
+from sklearn import preprocessing
 
 # Data Preprocessing
 #%%
@@ -49,23 +50,24 @@ df2.to_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data 
 #%%
 # Encode categorical data in numerical values
 
-df1 = pd.read_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_f1.csv')
+df3 = pd.read_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_f1.csv')
+
+to_nemeric = {"Stream(A/L)":{"Arts":0,"Commerce":1,"Biological Science":2,"Engineering Technology":3,"Physical Science":4},"A/L Subject1":{"A":4,"B":3,"C":2,"S":1.5,"W":0},"A/L Subject2":{"A":4,"B":3,"C":2,"S":1.5,"W":0},"A/L Subject3":{"A":4,"B":3,"C":2,"S":1.5,"W":0},"Gender":{"Male":0,"Female":1}} 
+
+df3.replace(to_nemeric, inplace=True)
+
+df3.to_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_numeric.csv',index = False)
+#%%
+
+df4 = pd.read_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_numericf.csv')
+
+stream = df4[['Stream(A/L)']].values.astype(float)
+
+min_max_scaler = preprocessing.MinMaxScaler()
+
+stream_scaled = min_max_scaler.fit_transform(stream)
 
 
-#stream = df.groupby('Stream(A//L,O/L)').sum()
-
-
-# Feature extraction
-
-#feature_cols = ['Age']
-
-#conv_num = {"Gender" : {"Male":0 ,"Female":1},   }
-
-# Feature Engineering - Unsupervised learning
 
 
 
-
-# Supervised Machine learning
-
-# Recommendation

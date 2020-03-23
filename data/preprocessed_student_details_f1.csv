@@ -1,189 +1,189 @@
-Student,Stream(A/L),A/L Subject1,A/L Subject2,A/L Subject3,Gender,Age,Course
-1,Physical Science,A,C,C,Male,19,Software Engineering
-2,Physical Science,A,C,B,Male,21,Software Engineering
-3,Physical Science,A,B,B,Male,19,Software Engineering
-4,Physical Science,B,B,B,Male,25,Software Engineering
-5,Engineering Technology,C,S,W,Male,21,Software Engineering
-6,Physical Science,A,B,C,Male,18,Software Engineering
-7,Biological Science,B,B,C,Male,23,Software Engineering
-8,Physical Science,B,B,C,Male,17,Network Engineering
-9,Physical Science,C,C,S,Male,21,Software Engineering
-10,Engineering Technology,S,S,S,Male,20,Software Engineering
-11,Commerce,B,B,C,Male,19,Software Engineering
-12,Physical Science,B,B,B,Male,23,Application Development
-13,Biological Science,A,B,B,Male,22,Application Development
-14,Biological Science,A,B,B,Female,22,Application Development
-15,Physical Science,A,A,B,Male,20,Software Engineering
-16,Physical Science,A,A,A,Female,23,Network Engineering
-17,Commerce,A,A,A,Female,20,Business Management
-18,Commerce,A,A,B,Female,19,Business Management
-19,Commerce,B,B,B,Female,23,Accounting
-20,Engineering Technology,C,C,C,Male,21,Network Engineering
-32,Commerce,C,C,C,Female,19,Business Management
-33,Physical Science,B,B,B,Female,21,Software Engineering
-34,Physical Science,S,S,S,Female,25,Network Engineering
-35,Commerce,B,B,B,Female,22,Application Development
-36,Biological Science,S,S,S,Female,20,Business Management
-37,Commerce,C,C,C,Female,24,Accounting
-38,Physical Science,S,S,W,Female,20,Software Engineering
-39,Physical Science,C,C,S,Female,22,Software Engineering
-40,Physical Science,A,B,C,Female,22,Network Engineering
-41,Physical Science,C,C,S,Female,21,Software Engineering
-42,Commerce,C,C,S,Female,22,Business Management
-43,Physical Science,B,B,C,Female,22,Network Engineering
-44,Biological Science,S,S,S,Female,22,Application Development
-45,Engineering Technology,B,B,C,Male,23,Software Engineering
-46,Physical Science,W,W,W,Female,22,Software Engineering
-47,Physical Science,C,S,W,Female,18,Business Management
-48,Biological Science,B,C,S,Female,19,Network Engineering
-49,Biological Science,C,C,C,Male,23,Software Engineering
-50,Commerce,A,A,B,Male,20,Business Management
-51,Commerce,B,B,B,Male,27,Accounting
-52,Physical Science,B,S,C,Male,30,Software Engineering
-53,Physical Science,C,C,C,Male,23,Software Engineering
-54,Physical Science,S,S,S,Male,29,Business Management
-55,Biological Science,S,S,S,Male,22,Software Engineering
-56,Commerce,C,C,S,Male,22,Software Engineering
-57,Physical Science,B,B,B,Female,19,Business Management
-58,Engineering Technology,B,C,S,Female,20,Software Engineering
-59,Engineering Technology,B,B,B,Female,21,Accounting
-60,Commerce,A,B,C,Female,25,Business Management
-61,Commerce,C,C,S,Female,25,Business Management
-62,Biological Science,B,C,S,Female,20,Business Management
-63,Biological Science,C,C,S,Female,22,Business Management
-64,Engineering Technology,C,C,S,Female,23,Network Engineering
-65,Biological Science,B,C,S,Male,20,Application Development
-66,Engineering Technology,C,C,S,Female,21,Network Engineering
-67,Biological Science,B,C,S,Female,20,Accounting
-68,Physical Science,C,C,S,Female,20,Software Engineering
-69,Physical Science,B,C,S,Female,19,Network Engineering
-70,Physical Science,C,C,S,Female,20,Network Engineering
-71,Biological Science,C,C,S,Female,21,Business Management
-72,Physical Science,A,B,C,Male,21,Software Engineering
-73,Biological Science,A,B,B,Female,19,Business Management
-74,Biological Science,B,C,S,Female,22,Accounting
-75,Physical Science,B,C,S,Female,22,Network Engineering
-76,Engineering Technology,B,C,S,Female,21,Software Engineering
-77,Commerce,C,C,S,Female,19,Business Management
-78,Commerce,A,C,C,Male,25,Business Management
-79,Commerce,B,B,C,Male,21,Accounting
-80,Physical Science,S,S,W,Male,22,Network Engineering
-81,Physical Science,S,S,S,Male,19,Network Engineering
-82,Commerce,C,C,S,Male,20,Application Development
-83,Engineering Technology,B,C,S,Male,21,Network Engineering
-84,Engineering Technology,A,B,C,Male,20,Software Engineering
-85,Physical Science,B,B,C,Male,21,Software Engineering
-86,Engineering Technology,A,B,C,Male,20,Network Engineering
-87,Engineering Technology,C,C,B,Female,19,Network Engineering
-88,Commerce,B,B,C,Female,20,Accounting
-89,Commerce,C,C,S,Female,19,Software Engineering
-90,Biological Science,B,C,S,Female,18,Software Engineering
-91,Biological Science,B,C,S,Female,16,Software Engineering
-92,Engineering Technology,C,C,S,Female,22,Network Engineering
-93,Biological Science,B,C,S,Female,20,Business Management
-94,Engineering Technology,B,B,C,Female,21,Network Engineering
-95,Commerce,C,C,S,Female,19,Accounting
-96,Physical Science,A,B,C,Female,16,Network Engineering
-97,Engineering Technology,B,C,S,Female,17,Network Engineering
-98,Physical Science,B,C,S,Female,20,Network Engineering
-99,Engineering Technology,B,C,S,Female,22,Network Engineering
-100,Physical Science,C,C,S,Female,25,Application Development
-101,Engineering Technology,C,S,S,Female,23,Network Engineering
-102,Commerce,B,C,S,Female,20,Business Management
-103,Commerce,A,C,S,Female,21,Business Management
-104,Commerce,C,C,S,Female,20,Accounting
-105,Commerce,A,B,C,Female,25,Network Engineering
-106,Engineering Technology,C,C,B,Female,19,Software Engineering
-107,Physical Science,B,C,S,Female,17,Software Engineering
-108,Physical Science,S,S,S,Female,20,Software Engineering
-109,Engineering Technology,C,C,S,Female,26,Software Engineering
-110,Engineering Technology,B,B,C,Female,24,Software Engineering
-111,Physical Science,C,C,S,Female,22,Network Engineering
-112,Biological Science,C,C,S,Female,19,Application Development
-113,Commerce,A,B,S,Female,18,Application Development
-114,Commerce,A,A,C,Female,19,Accounting
-115,Commerce,B,C,S,Female,22,Application Development
-116,Physical Science,C,C,S,Female,21,Network Engineering
-117,Commerce,C,C,S,Female,22,Business Management
-118,Engineering Technology,B,B,C,Female,19,Application Development
-119,Arts,A,A,A,Female,18,Application Development
-120,Biological Science,B,B,S,Female,20,Business Management
-121,Arts,B,C,S,Female,17,Application Development
-122,Commerce,S,S,C,Male,17,Accounting
-123,Arts,S,S,S,Female,23,Business Management
-124,Arts,A,A,A,Female,21,Application Development
-125,Arts,B,B,B,Female,20,Application Development
-126,Commerce,C,C,S,Female,19,Network Engineering
-127,Commerce,B,B,S,Female,20,Business Management
-128,Engineering Technology,B,B,S,Female,19,Network Engineering
-129,Commerce,B,C,S,Female,18,Application Development
-130,Biological Science,A,B,C,Female,19,Accounting
-131,Commerce,B,B,S,Male,20,Accounting
-132,Commerce,B,S,S,Male,21,Business Management
-133,Engineering Technology,C,C,S,Male,20,Application Development
-134,Physical Science,C,S,S,Male,20,Software Engineering
-135,Physical Science,A,B,C,Male,24,Software Engineering
-136,Physical Science,C,C,S,Female,24,Application Development
-137,Physical Science,B,S,S,Female,23,Software Engineering
-138,Commerce,C,C,S,Male,25,Accounting
-139,Commerce,B,C,S,Female,17,Application Development
-140,Physical Science,A,B,C,Male,20,Application Development
-141,Commerce,B,B,C,Male,25,Network Engineering
-142,Commerce,B,C,S,Female,20,Business Management
-143,Commerce,C,C,S,Female,21,Accounting
-144,Commerce,C,C,S,Female,20,Business Management
-145,Commerce,B,B,S,Female,21,Application Development
-146,Commerce,A,A,C,Female,20,Business Management
-147,Commerce,A,B,C,Female,22,Accounting
-148,Commerce,B,B,B,Female,22,Business Management
-149,Commerce,C,C,S,Female,20,Network Engineering
-150,Commerce,A,B,C,Female,21,Accounting
-151,Commerce,C,C,B,Male,17,Accounting
-152,Commerce,A,C,S,Female,22,Accounting
-153,Commerce,B,B,S,Female,20,Accounting
-154,Commerce,C,C,S,Female,22,Accounting
-155,Physical Science,C,C,S,Male,22,Network Engineering
-156,Physical Science,S,S,S,Male,21,Network Engineering
-157,Commerce,B,B,S,Male,22,Business Management
-158,Commerce,C,C,S,Male,17,Business Management
-159,Commerce,B,B,C,Female,20,Business Management
-160,Biological Science,C,C,S,Female,22,Network Engineering
-161,Commerce,A,B,C,Female,21,Network Engineering
-162,Commerce,A,B,B,Female,20,Network Engineering
-163,Commerce,B,B,S,Female,22,Accounting
-164,Commerce,A,B,C,Female,21,Network Engineering
-165,Commerce,C,C,S,Male,19,Accounting
-166,Commerce,B,B,S,Male,20,Business Management
-167,Commerce,A,A,B,Male,21,Accounting
-168,Commerce,C,C,S,Female,22,Accounting
-169,Physical Science,C,S,S,Male,21,Software Engineering
-170,Physical Science,B,B,B,Female,18,Network Engineering
-171,Physical Science,A,B,S,Male,19,Software Engineering
-172,Physical Science,C,C,C,Male,20,Software Engineering
-173,Commerce,C,C,S,Female,22,Accounting
-174,Biological Science,A,C,S,Male,22,Network Engineering
-175,Commerce,B,B,C,Male,26,Business Management
-176,Commerce,A,A,S,Female,20,Business Management
-177,Commerce,B,C,C,Female,21,Software Engineering
-178,Commerce,A,C,S,Female,19,Accounting
-179,Physical Science,C,C,S,Female,23,Software Engineering
-180,Commerce,C,C,S,Female,23,Business Management
-181,Biological Science,C,C,C,Female,17,Network Engineering
-182,Commerce,C,C,S,Male,18,Business Management
-183,Commerce,B,C,S,Male,24,Software Engineering
-184,Commerce,A,A,S,Male,21,Business Management
-185,Commerce,B,B,C,Male,20,Network Engineering
-186,Commerce,A,B,C,Female,23,Software Engineering
-187,Commerce,C,C,S,Female,21,Accounting
-188,Commerce,C,C,C,Female,21,Accounting
-189,Commerce,B,S,S,Female,21,Accounting
-190,Commerce,A,B,C,Female,24,Business Management
-191,Commerce,B,B,B,Female,23,Accounting
-192,Physical Science,B,S,S,Male,19,Network Engineering
-193,Physical Science,C,C,W,Male,20,Network Engineering
-194,Physical Science,A,C,C,Male,23,Software Engineering
-195,Physical Science,C,S,S,Male,19,Software Engineering
-196,Commerce,A,C,S,Female,22,Network Engineering
-197,Commerce,C,S,S,Male,21,Business Management
-198,Commerce,C,C,S,Male,23,Accounting
-199,Physical Science,C,C,S,Male,22,Network Engineering
+Student,Stream(A/L),A/L Subject1,A/L Subject2,A/L Subject3,Gender,Age,Course,A/L Performance
+1,Physical Science,A,C,C,Male,19,Software Engineering,8
+2,Physical Science,A,C,B,Male,21,Software Engineering,9
+3,Physical Science,A,B,B,Male,19,Software Engineering,10
+4,Physical Science,B,B,B,Male,25,Software Engineering,9
+5,Engineering Technology,C,S,W,Male,21,Software Engineering,3.5
+6,Physical Science,A,B,C,Male,18,Software Engineering,9
+7,Biological Science,B,B,C,Male,23,Software Engineering,8
+8,Physical Science,B,B,C,Male,17,Network Engineering,8
+9,Physical Science,C,C,S,Male,21,Software Engineering,5.5
+10,Engineering Technology,S,S,S,Male,20,Software Engineering,4.5
+11,Commerce,B,B,C,Male,19,Software Engineering,8
+12,Physical Science,B,B,B,Male,23,Application Development,9
+13,Biological Science,A,B,B,Male,22,Application Development,10
+14,Biological Science,A,B,B,Female,22,Application Development,10
+15,Physical Science,A,A,B,Male,20,Software Engineering,11
+16,Physical Science,A,A,A,Female,23,Network Engineering,12
+17,Commerce,A,A,A,Female,20,Business Management,12
+18,Commerce,A,A,B,Female,19,Business Management,11
+19,Commerce,B,B,B,Female,23,Accounting,9
+20,Engineering Technology,C,C,C,Male,21,Network Engineering,6
+32,Commerce,C,C,C,Female,19,Business Management,6
+33,Physical Science,B,B,B,Female,21,Software Engineering,9
+34,Physical Science,S,S,S,Female,25,Network Engineering,4.5
+35,Commerce,B,B,B,Female,22,Application Development,9
+36,Biological Science,S,S,S,Female,20,Business Management,4.5
+37,Commerce,C,C,C,Female,24,Accounting,6
+38,Physical Science,S,S,W,Female,20,Software Engineering,3
+39,Physical Science,C,C,S,Female,22,Software Engineering,5.5
+40,Physical Science,A,B,C,Female,22,Network Engineering,9
+41,Physical Science,C,C,S,Female,21,Software Engineering,5.5
+42,Commerce,C,C,S,Female,22,Business Management,5.5
+43,Physical Science,B,B,C,Female,22,Network Engineering,8
+44,Biological Science,S,S,S,Female,22,Application Development,4.5
+45,Engineering Technology,B,B,C,Male,23,Software Engineering,8
+46,Physical Science,W,W,W,Female,22,Software Engineering,0
+47,Physical Science,C,S,W,Female,18,Business Management,3.5
+48,Biological Science,B,C,S,Female,19,Network Engineering,6.5
+49,Biological Science,C,C,C,Male,23,Software Engineering,6
+50,Commerce,A,A,B,Male,20,Business Management,11
+51,Commerce,B,B,B,Male,27,Accounting,9
+52,Physical Science,B,S,C,Male,30,Software Engineering,6.5
+53,Physical Science,C,C,C,Male,23,Software Engineering,6
+54,Physical Science,S,S,S,Male,29,Business Management,4.5
+55,Biological Science,S,S,S,Male,22,Software Engineering,4.5
+56,Commerce,C,C,S,Male,22,Software Engineering,5.5
+57,Physical Science,B,B,B,Female,19,Business Management,9
+58,Engineering Technology,B,C,S,Female,20,Software Engineering,6.5
+59,Engineering Technology,B,B,B,Female,21,Accounting,9
+60,Commerce,A,B,C,Female,25,Business Management,9
+61,Commerce,C,C,S,Female,25,Business Management,5.5
+62,Biological Science,B,C,S,Female,20,Business Management,6.5
+63,Biological Science,C,C,S,Female,22,Business Management,5.5
+64,Engineering Technology,C,C,S,Female,23,Network Engineering,5.5
+65,Biological Science,B,C,S,Male,20,Application Development,6.5
+66,Engineering Technology,C,C,S,Female,21,Network Engineering,5.5
+67,Biological Science,B,C,S,Female,20,Accounting,6.5
+68,Physical Science,C,C,S,Female,20,Software Engineering,5.5
+69,Physical Science,B,C,S,Female,19,Network Engineering,6.5
+70,Physical Science,C,C,S,Female,20,Network Engineering,5.5
+71,Biological Science,C,C,S,Female,21,Business Management,5.5
+72,Physical Science,A,B,C,Male,21,Software Engineering,9
+73,Biological Science,A,B,B,Female,19,Business Management,10
+74,Biological Science,B,C,S,Female,22,Accounting,6.5
+75,Physical Science,B,C,S,Female,22,Network Engineering,6.5
+76,Engineering Technology,B,C,S,Female,21,Software Engineering,6.5
+77,Commerce,C,C,S,Female,19,Business Management,5.5
+78,Commerce,A,C,C,Male,25,Business Management,8
+79,Commerce,B,B,C,Male,21,Accounting,8
+80,Physical Science,S,S,W,Male,22,Network Engineering,3
+81,Physical Science,S,S,S,Male,19,Network Engineering,4.5
+82,Commerce,C,C,S,Male,20,Application Development,5.5
+83,Engineering Technology,B,C,S,Male,21,Network Engineering,6.5
+84,Engineering Technology,A,B,C,Male,20,Software Engineering,9
+85,Physical Science,B,B,C,Male,21,Software Engineering,8
+86,Engineering Technology,A,B,C,Male,20,Network Engineering,9
+87,Engineering Technology,C,C,B,Female,19,Network Engineering,7
+88,Commerce,B,B,C,Female,20,Accounting,8
+89,Commerce,C,C,S,Female,19,Software Engineering,5.5
+90,Biological Science,B,C,S,Female,18,Software Engineering,6.5
+91,Biological Science,B,C,S,Female,16,Software Engineering,6.5
+92,Engineering Technology,C,C,S,Female,22,Network Engineering,5.5
+93,Biological Science,B,C,S,Female,20,Business Management,6.5
+94,Engineering Technology,B,B,C,Female,21,Network Engineering,8
+95,Commerce,C,C,S,Female,19,Accounting,5.5
+96,Physical Science,A,B,C,Female,16,Network Engineering,9
+97,Engineering Technology,B,C,S,Female,17,Network Engineering,6.5
+98,Physical Science,B,C,S,Female,20,Network Engineering,6.5
+99,Engineering Technology,B,C,S,Female,22,Network Engineering,6.5
+100,Physical Science,C,C,S,Female,25,Application Development,5.5
+101,Engineering Technology,C,S,S,Female,23,Network Engineering,5
+102,Commerce,B,C,S,Female,20,Business Management,6.5
+103,Commerce,A,C,S,Female,21,Business Management,7.5
+104,Commerce,C,C,S,Female,20,Accounting,5.5
+105,Commerce,A,B,C,Female,25,Network Engineering,9
+106,Engineering Technology,C,C,B,Female,19,Software Engineering,7
+107,Physical Science,B,C,S,Female,17,Software Engineering,6.5
+108,Physical Science,S,S,S,Female,20,Software Engineering,4.5
+109,Engineering Technology,C,C,S,Female,26,Software Engineering,5.5
+110,Engineering Technology,B,B,C,Female,24,Software Engineering,8
+111,Physical Science,C,C,S,Female,22,Network Engineering,5.5
+112,Biological Science,C,C,S,Female,19,Application Development,5.5
+113,Commerce,A,B,S,Female,18,Application Development,8.5
+114,Commerce,A,A,C,Female,19,Accounting,10
+115,Commerce,B,C,S,Female,22,Application Development,6.5
+116,Physical Science,C,C,S,Female,21,Network Engineering,5.5
+117,Commerce,C,C,S,Female,22,Business Management,5.5
+118,Engineering Technology,B,B,C,Female,19,Application Development,8
+119,Arts,A,A,A,Female,18,Application Development,12
+120,Biological Science,B,B,S,Female,20,Business Management,7.5
+121,Arts,B,C,S,Female,17,Application Development,6.5
+122,Commerce,S,S,C,Male,17,Accounting,5
+123,Arts,S,S,S,Female,23,Business Management,4.5
+124,Arts,A,A,A,Female,21,Application Development,12
+125,Arts,B,B,B,Female,20,Application Development,9
+126,Commerce,C,C,S,Female,19,Network Engineering,5.5
+127,Commerce,B,B,S,Female,20,Business Management,7.5
+128,Engineering Technology,B,B,S,Female,19,Network Engineering,7.5
+129,Commerce,B,C,S,Female,18,Application Development,6.5
+130,Biological Science,A,B,C,Female,19,Accounting,9
+131,Commerce,B,B,S,Male,20,Accounting,7.5
+132,Commerce,B,S,S,Male,21,Business Management,6
+133,Engineering Technology,C,C,S,Male,20,Application Development,5.5
+134,Physical Science,C,S,S,Male,20,Software Engineering,5
+135,Physical Science,A,B,C,Male,24,Software Engineering,9
+136,Physical Science,C,C,S,Female,24,Application Development,5.5
+137,Physical Science,B,S,S,Female,23,Software Engineering,6
+138,Commerce,C,C,S,Male,25,Accounting,5.5
+139,Commerce,B,C,S,Female,17,Application Development,6.5
+140,Physical Science,A,B,C,Male,20,Application Development,9
+141,Commerce,B,B,C,Male,25,Network Engineering,8
+142,Commerce,B,C,S,Female,20,Business Management,6.5
+143,Commerce,C,C,S,Female,21,Accounting,5.5
+144,Commerce,C,C,S,Female,20,Business Management,5.5
+145,Commerce,B,B,S,Female,21,Application Development,7.5
+146,Commerce,A,A,C,Female,20,Business Management,10
+147,Commerce,A,B,C,Female,22,Accounting,9
+148,Commerce,B,B,B,Female,22,Business Management,9
+149,Commerce,C,C,S,Female,20,Network Engineering,5.5
+150,Commerce,A,B,C,Female,21,Accounting,9
+151,Commerce,C,C,B,Male,17,Accounting,7
+152,Commerce,A,C,S,Female,22,Accounting,7.5
+153,Commerce,B,B,S,Female,20,Accounting,7.5
+154,Commerce,C,C,S,Female,22,Accounting,5.5
+155,Physical Science,C,C,S,Male,22,Network Engineering,5.5
+156,Physical Science,S,S,S,Male,21,Network Engineering,4.5
+157,Commerce,B,B,S,Male,22,Business Management,7.5
+158,Commerce,C,C,S,Male,17,Business Management,5.5
+159,Commerce,B,B,C,Female,20,Business Management,8
+160,Biological Science,C,C,S,Female,22,Network Engineering,5.5
+161,Commerce,A,B,C,Female,21,Network Engineering,9
+162,Commerce,A,B,B,Female,20,Network Engineering,10
+163,Commerce,B,B,S,Female,22,Accounting,7.5
+164,Commerce,A,B,C,Female,21,Network Engineering,9
+165,Commerce,C,C,S,Male,19,Accounting,5.5
+166,Commerce,B,B,S,Male,20,Business Management,7.5
+167,Commerce,A,A,B,Male,21,Accounting,11
+168,Commerce,C,C,S,Female,22,Accounting,5.5
+169,Physical Science,C,S,S,Male,21,Software Engineering,5
+170,Physical Science,B,B,B,Female,18,Network Engineering,9
+171,Physical Science,A,B,S,Male,19,Software Engineering,8.5
+172,Physical Science,C,C,C,Male,20,Software Engineering,6
+173,Commerce,C,C,S,Female,22,Accounting,5.5
+174,Biological Science,A,C,S,Male,22,Network Engineering,7.5
+175,Commerce,B,B,C,Male,26,Business Management,8
+176,Commerce,A,A,S,Female,20,Business Management,9.5
+177,Commerce,B,C,C,Female,21,Software Engineering,7
+178,Commerce,A,C,S,Female,19,Accounting,7.5
+179,Physical Science,C,C,S,Female,23,Software Engineering,5.5
+180,Commerce,C,C,S,Female,23,Business Management,5.5
+181,Biological Science,C,C,C,Female,17,Network Engineering,6
+182,Commerce,C,C,S,Male,18,Business Management,5.5
+183,Commerce,B,C,S,Male,24,Software Engineering,6.5
+184,Commerce,A,A,S,Male,21,Business Management,9.5
+185,Commerce,B,B,C,Male,20,Network Engineering,8
+186,Commerce,A,B,C,Female,23,Software Engineering,9
+187,Commerce,C,C,S,Female,21,Accounting,5.5
+188,Commerce,C,C,C,Female,21,Accounting,6
+189,Commerce,B,S,S,Female,21,Accounting,6
+190,Commerce,A,B,C,Female,24,Business Management,9
+191,Commerce,B,B,B,Female,23,Accounting,9
+192,Physical Science,B,S,S,Male,19,Network Engineering,6
+193,Physical Science,C,C,W,Male,20,Network Engineering,4
+194,Physical Science,A,C,C,Male,23,Software Engineering,8
+195,Physical Science,C,S,S,Male,19,Software Engineering,5
+196,Commerce,A,C,S,Female,22,Network Engineering,7.5
+197,Commerce,C,S,S,Male,21,Business Management,5
+198,Commerce,C,C,S,Male,23,Accounting,5.5
+199,Physical Science,C,C,S,Male,22,Network Engineering,5.5

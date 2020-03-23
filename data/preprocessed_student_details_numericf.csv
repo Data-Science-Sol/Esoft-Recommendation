@@ -1,189 +1,189 @@
-Student,Stream(A/L),A/L Subject1,A/L Subject2,A/L Subject3,Gender,Age,Course,,A/L Performance
-1,4,4,2,2,0,19,Software Engineering,,8
-2,4,4,2,3,0,21,Software Engineering,,9
-3,4,4,3,3,0,19,Software Engineering,,10
-4,4,3,3,3,0,25,Software Engineering,,9
-5,3,2,1.5,0,0,21,Software Engineering,,3.5
-6,4,4,3,2,0,18,Software Engineering,,9
-7,2,3,3,2,0,23,Software Engineering,,8
-8,4,3,3,2,0,17,Network Engineering,,8
-9,4,2,2,1.5,0,21,Software Engineering,,5.5
-10,3,1.5,1.5,1.5,0,20,Software Engineering,,4.5
-11,1,3,3,2,0,19,Software Engineering,,8
-12,4,3,3,3,0,23,Application Development,,9
-13,2,4,3,3,0,22,Application Development,,10
-14,2,4,3,3,1,22,Application Development,,10
-15,4,4,4,3,0,20,Software Engineering,,11
-16,4,4,4,4,1,23,Network Engineering,,12
-17,1,4,4,4,1,20,Business Management,,12
-18,1,4,4,3,1,19,Business Management,,11
-19,1,3,3,3,1,23,Accounting,,9
-20,3,2,2,2,0,21,Network Engineering,,6
-32,1,2,2,2,1,19,Business Management,,6
-33,4,3,3,3,1,21,Software Engineering,,9
-34,4,1.5,1.5,1.5,1,25,Network Engineering,,4.5
-35,1,3,3,3,1,22,Application Development,,9
-36,2,1.5,1.5,1.5,1,20,Business Management,,4.5
-37,1,2,2,2,1,24,Accounting,,6
-38,4,1.5,1.5,0,1,20,Software Engineering,,3
-39,4,2,2,1.5,1,22,Software Engineering,,5.5
-40,4,4,3,2,1,22,Network Engineering,,9
-41,4,2,2,1.5,1,21,Software Engineering,,5.5
-42,1,2,2,1.5,1,22,Business Management,,5.5
-43,4,3,3,2,1,22,Network Engineering,,8
-44,2,1.5,1.5,1.5,1,22,Application Development,,4.5
-45,3,3,3,2,0,23,Software Engineering,,8
-46,4,0,0,0,1,22,Software Engineering,,0
-47,4,2,1.5,0,1,18,Business Management,,3.5
-48,2,3,2,1.5,1,19,Network Engineering,,6.5
-49,2,2,2,2,0,23,Software Engineering,,6
-50,1,4,4,3,0,20,Business Management,,11
-51,1,3,3,3,0,27,Accounting,,9
-52,4,3,1.5,2,0,30,Software Engineering,,6.5
-53,4,2,2,2,0,23,Software Engineering,,6
-54,4,1.5,1.5,1.5,0,29,Business Management,,4.5
-55,2,1.5,1.5,1.5,0,22,Software Engineering,,4.5
-56,1,2,2,1.5,0,22,Software Engineering,,5.5
-57,4,3,3,3,1,19,Business Management,,9
-58,3,3,2,1.5,1,20,Software Engineering,,6.5
-59,3,3,3,3,1,21,Accounting,,9
-60,1,4,3,2,1,25,Business Management,,9
-61,1,2,2,1.5,1,25,Business Management,,5.5
-62,2,3,2,1.5,1,20,Business Management,,6.5
-63,2,2,2,1.5,1,22,Business Management,,5.5
-64,3,2,2,1.5,1,23,Network Engineering,,5.5
-65,2,3,2,1.5,0,20,Application Development,,6.5
-66,3,2,2,1.5,1,21,Network Engineering,,5.5
-67,2,3,2,1.5,1,20,Accounting,,6.5
-68,4,2,2,1.5,1,20,Software Engineering,,5.5
-69,4,3,2,1.5,1,19,Network Engineering,,6.5
-70,4,2,2,1.5,1,20,Network Engineering,,5.5
-71,2,2,2,1.5,1,21,Business Management,,5.5
-72,4,4,3,2,0,21,Software Engineering,,9
-73,2,4,3,3,1,19,Business Management,,10
-74,2,3,2,1.5,1,22,Accounting,,6.5
-75,4,3,2,1.5,1,22,Network Engineering,,6.5
-76,3,3,2,1.5,1,21,Software Engineering,,6.5
-77,1,2,2,1.5,1,19,Business Management,,5.5
-78,1,4,2,2,0,25,Business Management,,8
-79,1,3,3,2,0,21,Accounting,,8
-80,4,1.5,1.5,0,0,22,Network Engineering,,3
-81,4,1.5,1.5,1.5,0,19,Network Engineering,,4.5
-82,1,2,2,1.5,0,20,Application Development,,5.5
-83,3,3,2,1.5,0,21,Network Engineering,,6.5
-84,3,4,3,2,0,20,Software Engineering,,9
-85,4,3,3,2,0,21,Software Engineering,,8
-86,3,4,3,2,0,20,Network Engineering,,9
-87,3,2,2,3,1,19,Network Engineering,,7
-88,1,3,3,2,1,20,Accounting,,8
-89,1,2,2,1.5,1,19,Software Engineering,,5.5
-90,2,3,2,1.5,1,18,Software Engineering,,6.5
-91,2,3,2,1.5,1,16,Software Engineering,,6.5
-92,3,2,2,1.5,1,22,Network Engineering,,5.5
-93,2,3,2,1.5,1,20,Business Management,,6.5
-94,3,3,3,2,1,21,Network Engineering,,8
-95,1,2,2,1.5,1,19,Accounting,,5.5
-96,4,4,3,2,1,16,Network Engineering,,9
-97,3,3,2,1.5,1,17,Network Engineering,,6.5
-98,4,3,2,1.5,1,20,Network Engineering,,6.5
-99,3,3,2,1.5,1,22,Network Engineering,,6.5
-100,4,2,2,1.5,1,25,Application Development,,5.5
-101,3,2,1.5,1.5,1,23,Network Engineering,,5
-102,1,3,2,1.5,1,20,Business Management,,6.5
-103,1,4,2,1.5,1,21,Business Management,,7.5
-104,1,2,2,1.5,1,20,Accounting,,5.5
-105,1,4,3,2,1,25,Network Engineering,,9
-106,3,2,2,3,1,19,Software Engineering,,7
-107,4,3,2,1.5,1,17,Software Engineering,,6.5
-108,4,1.5,1.5,1.5,1,20,Software Engineering,,4.5
-109,3,2,2,1.5,1,26,Software Engineering,,5.5
-110,3,3,3,2,1,24,Software Engineering,,8
-111,4,2,2,1.5,1,22,Network Engineering,,5.5
-112,2,2,2,1.5,1,19,Application Development,,5.5
-113,1,4,3,1.5,1,18,Application Development,,8.5
-114,1,4,4,2,1,19,Accounting,,10
-115,1,3,2,1.5,1,22,Application Development,,6.5
-116,4,2,2,1.5,1,21,Network Engineering,,5.5
-117,1,2,2,1.5,1,22,Business Management,,5.5
-118,3,3,3,2,1,19,Application Development,,8
-119,0,4,4,4,1,18,Application Development,,12
-120,2,3,3,1.5,1,20,Business Management,,7.5
-121,0,3,2,1.5,1,17,Application Development,,6.5
-122,1,1.5,1.5,2,0,17,Accounting,,5
-123,0,1.5,1.5,1.5,1,23,Business Management,,4.5
-124,0,4,4,4,1,21,Application Development,,12
-125,0,3,3,3,1,20,Application Development,,9
-126,1,2,2,1.5,1,19,Network Engineering,,5.5
-127,1,3,3,1.5,1,20,Business Management,,7.5
-128,3,3,3,1.5,1,19,Network Engineering,,7.5
-129,1,3,2,1.5,1,18,Application Development,,6.5
-130,2,4,3,2,1,19,Accounting,,9
-131,1,3,3,1.5,0,20,Accounting,,7.5
-132,1,3,1.5,1.5,0,21,Business Management,,6
-133,3,2,2,1.5,0,20,Application Development,,5.5
-134,4,2,1.5,1.5,0,20,Software Engineering,,5
-135,4,4,3,2,0,24,Software Engineering,,9
-136,4,2,2,1.5,1,24,Application Development,,5.5
-137,4,3,1.5,1.5,1,23,Software Engineering,,6
-138,1,2,2,1.5,0,25,Accounting,,5.5
-139,1,3,2,1.5,1,17,Application Development,,6.5
-140,4,4,3,2,0,20,Application Development,,9
-141,1,3,3,2,0,25,Network Engineering,,8
-142,1,3,2,1.5,1,20,Business Management,,6.5
-143,1,2,2,1.5,1,21,Accounting,,5.5
-144,1,2,2,1.5,1,20,Business Management,,5.5
-145,1,3,3,1.5,1,21,Application Development,,7.5
-146,1,4,4,2,1,20,Business Management,,10
-147,1,4,3,2,1,22,Accounting,,9
-148,1,3,3,3,1,22,Business Management,,9
-149,1,2,2,1.5,1,20,Network Engineering,,5.5
-150,1,4,3,2,1,21,Accounting,,9
-151,1,2,2,3,0,17,Accounting,,7
-152,1,4,2,1.5,1,22,Accounting,,7.5
-153,1,3,3,1.5,1,20,Accounting,,7.5
-154,1,2,2,1.5,1,22,Accounting,,5.5
-155,4,2,2,1.5,0,22,Network Engineering,,5.5
-156,4,1.5,1.5,1.5,0,21,Network Engineering,,4.5
-157,1,3,3,1.5,0,22,Business Management,,7.5
-158,1,2,2,1.5,0,17,Business Management,,5.5
-159,1,3,3,2,1,20,Business Management,,8
-160,2,2,2,1.5,1,22,Network Engineering,,5.5
-161,1,4,3,2,1,21,Network Engineering,,9
-162,1,4,3,3,1,20,Network Engineering,,10
-163,1,3,3,1.5,1,22,Accounting,,7.5
-164,1,4,3,2,1,21,Network Engineering,,9
-165,1,2,2,1.5,0,19,Accounting,,5.5
-166,1,3,3,1.5,0,20,Business Management,,7.5
-167,1,4,4,3,0,21,Accounting,,11
-168,1,2,2,1.5,1,22,Accounting,,5.5
-169,4,2,1.5,1.5,0,21,Software Engineering,,5
-170,4,3,3,3,1,18,Network Engineering,,9
-171,4,4,3,1.5,0,19,Software Engineering,,8.5
-172,4,2,2,2,0,20,Software Engineering,,6
-173,1,2,2,1.5,1,22,Accounting,,5.5
-174,2,4,2,1.5,0,22,Network Engineering,,7.5
-175,1,3,3,2,0,26,Business Management,,8
-176,1,4,4,1.5,1,20,Business Management,,9.5
-177,1,3,2,2,1,21,Software Engineering,,7
-178,1,4,2,1.5,1,19,Accounting,,7.5
-179,4,2,2,1.5,1,23,Software Engineering,,5.5
-180,1,2,2,1.5,1,23,Business Management,,5.5
-181,2,2,2,2,1,17,Network Engineering,,6
-182,1,2,2,1.5,0,18,Business Management,,5.5
-183,1,3,2,1.5,0,24,Software Engineering,,6.5
-184,1,4,4,1.5,0,21,Business Management,,9.5
-185,1,3,3,2,0,20,Network Engineering,,8
-186,1,4,3,2,1,23,Software Engineering,,9
-187,1,2,2,1.5,1,21,Accounting,,5.5
-188,1,2,2,2,1,21,Accounting,,6
-189,1,3,1.5,1.5,1,21,Accounting,,6
-190,1,4,3,2,1,24,Business Management,,9
-191,1,3,3,3,1,23,Accounting,,9
-192,4,3,1.5,1.5,0,19,Network Engineering,,6
-193,4,2,2,0,0,20,Network Engineering,,4
-194,4,4,2,2,0,23,Software Engineering,,8
-195,4,2,1.5,1.5,0,19,Software Engineering,,5
-196,1,4,2,1.5,1,22,Network Engineering,,7.5
-197,1,2,1.5,1.5,0,21,Business Management,,5
-198,1,2,2,1.5,0,23,Accounting,,5.5
-199,4,2,2,1.5,0,22,Network Engineering,,5.5
+Student,Stream(A/L),A/L Performance,Gender,Age,Course
+1,4,8,0,19,Software Engineering
+2,4,9,0,21,Software Engineering
+3,4,10,0,19,Software Engineering
+4,4,9,0,25,Software Engineering
+5,3,3.5,0,21,Software Engineering
+6,4,9,0,18,Software Engineering
+7,2,8,0,23,Software Engineering
+8,4,8,0,17,Network Engineering
+9,4,5.5,0,21,Software Engineering
+10,3,4.5,0,20,Software Engineering
+11,1,8,0,19,Software Engineering
+12,4,9,0,23,Application Development
+13,2,10,0,22,Application Development
+14,2,10,1,22,Application Development
+15,4,11,0,20,Software Engineering
+16,4,12,1,23,Network Engineering
+17,1,12,1,20,Business Management
+18,1,11,1,19,Business Management
+19,1,9,1,23,Accounting
+20,3,6,0,21,Network Engineering
+32,1,6,1,19,Business Management
+33,4,9,1,21,Software Engineering
+34,4,4.5,1,25,Network Engineering
+35,1,9,1,22,Application Development
+36,2,4.5,1,20,Business Management
+37,1,6,1,24,Accounting
+38,4,3,1,20,Software Engineering
+39,4,5.5,1,22,Software Engineering
+40,4,9,1,22,Network Engineering
+41,4,5.5,1,21,Software Engineering
+42,1,5.5,1,22,Business Management
+43,4,8,1,22,Network Engineering
+44,2,4.5,1,22,Application Development
+45,3,8,0,23,Software Engineering
+46,4,0,1,22,Software Engineering
+47,4,3.5,1,18,Business Management
+48,2,6.5,1,19,Network Engineering
+49,2,6,0,23,Software Engineering
+50,1,11,0,20,Business Management
+51,1,9,0,27,Accounting
+52,4,6.5,0,30,Software Engineering
+53,4,6,0,23,Software Engineering
+54,4,4.5,0,29,Business Management
+55,2,4.5,0,22,Software Engineering
+56,1,5.5,0,22,Software Engineering
+57,4,9,1,19,Business Management
+58,3,6.5,1,20,Software Engineering
+59,3,9,1,21,Accounting
+60,1,9,1,25,Business Management
+61,1,5.5,1,25,Business Management
+62,2,6.5,1,20,Business Management
+63,2,5.5,1,22,Business Management
+64,3,5.5,1,23,Network Engineering
+65,2,6.5,0,20,Application Development
+66,3,5.5,1,21,Network Engineering
+67,2,6.5,1,20,Accounting
+68,4,5.5,1,20,Software Engineering
+69,4,6.5,1,19,Network Engineering
+70,4,5.5,1,20,Network Engineering
+71,2,5.5,1,21,Business Management
+72,4,9,0,21,Software Engineering
+73,2,10,1,19,Business Management
+74,2,6.5,1,22,Accounting
+75,4,6.5,1,22,Network Engineering
+76,3,6.5,1,21,Software Engineering
+77,1,5.5,1,19,Business Management
+78,1,8,0,25,Business Management
+79,1,8,0,21,Accounting
+80,4,3,0,22,Network Engineering
+81,4,4.5,0,19,Network Engineering
+82,1,5.5,0,20,Application Development
+83,3,6.5,0,21,Network Engineering
+84,3,9,0,20,Software Engineering
+85,4,8,0,21,Software Engineering
+86,3,9,0,20,Network Engineering
+87,3,7,1,19,Network Engineering
+88,1,8,1,20,Accounting
+89,1,5.5,1,19,Software Engineering
+90,2,6.5,1,18,Software Engineering
+91,2,6.5,1,16,Software Engineering
+92,3,5.5,1,22,Network Engineering
+93,2,6.5,1,20,Business Management
+94,3,8,1,21,Network Engineering
+95,1,5.5,1,19,Accounting
+96,4,9,1,16,Network Engineering
+97,3,6.5,1,17,Network Engineering
+98,4,6.5,1,20,Network Engineering
+99,3,6.5,1,22,Network Engineering
+100,4,5.5,1,25,Application Development
+101,3,5,1,23,Network Engineering
+102,1,6.5,1,20,Business Management
+103,1,7.5,1,21,Business Management
+104,1,5.5,1,20,Accounting
+105,1,9,1,25,Network Engineering
+106,3,7,1,19,Software Engineering
+107,4,6.5,1,17,Software Engineering
+108,4,4.5,1,20,Software Engineering
+109,3,5.5,1,26,Software Engineering
+110,3,8,1,24,Software Engineering
+111,4,5.5,1,22,Network Engineering
+112,2,5.5,1,19,Application Development
+113,1,8.5,1,18,Application Development
+114,1,10,1,19,Accounting
+115,1,6.5,1,22,Application Development
+116,4,5.5,1,21,Network Engineering
+117,1,5.5,1,22,Business Management
+118,3,8,1,19,Application Development
+119,0,12,1,18,Application Development
+120,2,7.5,1,20,Business Management
+121,0,6.5,1,17,Application Development
+122,1,5,0,17,Accounting
+123,0,4.5,1,23,Business Management
+124,0,12,1,21,Application Development
+125,0,9,1,20,Application Development
+126,1,5.5,1,19,Network Engineering
+127,1,7.5,1,20,Business Management
+128,3,7.5,1,19,Network Engineering
+129,1,6.5,1,18,Application Development
+130,2,9,1,19,Accounting
+131,1,7.5,0,20,Accounting
+132,1,6,0,21,Business Management
+133,3,5.5,0,20,Application Development
+134,4,5,0,20,Software Engineering
+135,4,9,0,24,Software Engineering
+136,4,5.5,1,24,Application Development
+137,4,6,1,23,Software Engineering
+138,1,5.5,0,25,Accounting
+139,1,6.5,1,17,Application Development
+140,4,9,0,20,Application Development
+141,1,8,0,25,Network Engineering
+142,1,6.5,1,20,Business Management
+143,1,5.5,1,21,Accounting
+144,1,5.5,1,20,Business Management
+145,1,7.5,1,21,Application Development
+146,1,10,1,20,Business Management
+147,1,9,1,22,Accounting
+148,1,9,1,22,Business Management
+149,1,5.5,1,20,Network Engineering
+150,1,9,1,21,Accounting
+151,1,7,0,17,Accounting
+152,1,7.5,1,22,Accounting
+153,1,7.5,1,20,Accounting
+154,1,5.5,1,22,Accounting
+155,4,5.5,0,22,Network Engineering
+156,4,4.5,0,21,Network Engineering
+157,1,7.5,0,22,Business Management
+158,1,5.5,0,17,Business Management
+159,1,8,1,20,Business Management
+160,2,5.5,1,22,Network Engineering
+161,1,9,1,21,Network Engineering
+162,1,10,1,20,Network Engineering
+163,1,7.5,1,22,Accounting
+164,1,9,1,21,Network Engineering
+165,1,5.5,0,19,Accounting
+166,1,7.5,0,20,Business Management
+167,1,11,0,21,Accounting
+168,1,5.5,1,22,Accounting
+169,4,5,0,21,Software Engineering
+170,4,9,1,18,Network Engineering
+171,4,8.5,0,19,Software Engineering
+172,4,6,0,20,Software Engineering
+173,1,5.5,1,22,Accounting
+174,2,7.5,0,22,Network Engineering
+175,1,8,0,26,Business Management
+176,1,9.5,1,20,Business Management
+177,1,7,1,21,Software Engineering
+178,1,7.5,1,19,Accounting
+179,4,5.5,1,23,Software Engineering
+180,1,5.5,1,23,Business Management
+181,2,6,1,17,Network Engineering
+182,1,5.5,0,18,Business Management
+183,1,6.5,0,24,Software Engineering
+184,1,9.5,0,21,Business Management
+185,1,8,0,20,Network Engineering
+186,1,9,1,23,Software Engineering
+187,1,5.5,1,21,Accounting
+188,1,6,1,21,Accounting
+189,1,6,1,21,Accounting
+190,1,9,1,24,Business Management
+191,1,9,1,23,Accounting
+192,4,6,0,19,Network Engineering
+193,4,4,0,20,Network Engineering
+194,4,8,0,23,Software Engineering
+195,4,5,0,19,Software Engineering
+196,1,7.5,1,22,Network Engineering
+197,1,5,0,21,Business Management
+198,1,5.5,0,23,Accounting
+199,4,5.5,0,22,Network Engineering
