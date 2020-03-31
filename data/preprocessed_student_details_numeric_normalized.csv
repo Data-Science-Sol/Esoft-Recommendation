@@ -1,189 +1,189 @@
-Student,stream_normalised,performance_als_normalised,Gender,age_normalised,Course,,,
-1,1,0.6667,0,0.2143,Software Engineering,,,
-2,1,0.7500,0,0.3571,Software Engineering,,,
-3,1,0.8333,0,0.2143,Software Engineering,,,
-4,1,0.7500,0,0.6429,Software Engineering,,,
-5,0.75,0.2917,0,0.3571,Software Engineering,,,
-6,1,0.7500,0,0.1429,Software Engineering,,,
-7,0.5,0.6667,0,0.5000,Software Engineering,,,
-8,1,0.6667,0,0.0714,Network Engineering,,,
-9,1,0.4583,0,0.3571,Software Engineering,,,
-10,0.75,0.3750,0,0.2857,Software Engineering,,,
-11,0.25,0.6667,0,0.2143,Software Engineering,,,
-12,1,0.7500,0,0.5000,Application Development,,,
-13,0.5,0.8333,0,0.4286,Application Development,,,
-14,0.5,0.8333,1,0.4286,Application Development,,,
-15,1,0.9167,0,0.2857,Software Engineering,,,
-16,1,1.0000,1,0.5000,Network Engineering,,,
-17,0.25,1.0000,1,0.2857,Business Management,,,
-18,0.25,0.9167,1,0.2143,Business Management,,,
-19,0.25,0.7500,1,0.5000,Accounting,,,
-20,0.75,0.5000,0,0.3571,Network Engineering,,,
-32,0.25,0.5000,1,0.2143,Business Management,,,
-33,1,0.7500,1,0.3571,Software Engineering,,,
-34,1,0.3750,1,0.6429,Network Engineering,,,
-35,0.25,0.7500,1,0.4286,Application Development,,,
-36,0.5,0.3750,1,0.2857,Business Management,,,
-37,0.25,0.5000,1,0.5714,Accounting,,,
-38,1,0.2500,1,0.2857,Software Engineering,,,
-39,1,0.4583,1,0.4286,Software Engineering,,,
-40,1,0.7500,1,0.4286,Network Engineering,,,
-41,1,0.4583,1,0.3571,Software Engineering,,,
-42,0.25,0.4583,1,0.4286,Business Management,,,
-43,1,0.6667,1,0.4286,Network Engineering,,,
-44,0.5,0.3750,1,0.4286,Application Development,,,
-45,0.75,0.6667,0,0.5000,Software Engineering,,,
-46,1,0.0000,1,0.4286,Software Engineering,,,
-47,1,0.2917,1,0.1429,Business Management,,,
-48,0.5,0.5417,1,0.2143,Network Engineering,,,
-49,0.5,0.5000,0,0.5000,Software Engineering,,,
-50,0.25,0.9167,0,0.2857,Business Management,,,
-51,0.25,0.7500,0,0.7857,Accounting,,,
-52,1,0.5417,0,1.0000,Software Engineering,,,
-53,1,0.5000,0,0.5000,Software Engineering,,,
-54,1,0.3750,0,0.9286,Business Management,,,
-55,0.5,0.3750,0,0.4286,Software Engineering,,,
-56,0.25,0.4583,0,0.4286,Software Engineering,,,
-57,1,0.7500,1,0.2143,Business Management,,,
-58,0.75,0.5417,1,0.2857,Software Engineering,,,
-59,0.75,0.7500,1,0.3571,Accounting,,,
-60,0.25,0.7500,1,0.6429,Business Management,,,
-61,0.25,0.4583,1,0.6429,Business Management,,,
-62,0.5,0.5417,1,0.2857,Business Management,,,
-63,0.5,0.4583,1,0.4286,Business Management,,,
-64,0.75,0.4583,1,0.5000,Network Engineering,,,
-65,0.5,0.5417,0,0.2857,Application Development,,,
-66,0.75,0.4583,1,0.3571,Network Engineering,,,
-67,0.5,0.5417,1,0.2857,Accounting,,,
-68,1,0.4583,1,0.2857,Software Engineering,,,
-69,1,0.5417,1,0.2143,Network Engineering,,,
-70,1,0.4583,1,0.2857,Network Engineering,,,
-71,0.5,0.4583,1,0.3571,Business Management,,,
-72,1,0.7500,0,0.3571,Software Engineering,,,
-73,0.5,0.8333,1,0.2143,Business Management,,,
-74,0.5,0.5417,1,0.4286,Accounting,,,
-75,1,0.5417,1,0.4286,Network Engineering,,,
-76,0.75,0.5417,1,0.3571,Software Engineering,,,
-77,0.25,0.4583,1,0.2143,Business Management,,,
-78,0.25,0.6667,0,0.6429,Business Management,,,
-79,0.25,0.6667,0,0.3571,Accounting,,,
-80,1,0.2500,0,0.4286,Network Engineering,,,
-81,1,0.3750,0,0.2143,Network Engineering,,,
-82,0.25,0.4583,0,0.2857,Application Development,,,
-83,0.75,0.5417,0,0.3571,Network Engineering,,,
-84,0.75,0.7500,0,0.2857,Software Engineering,,,
-85,1,0.6667,0,0.3571,Software Engineering,,,
-86,0.75,0.7500,0,0.2857,Network Engineering,,,
-87,0.75,0.5833,1,0.2143,Network Engineering,,,
-88,0.25,0.6667,1,0.2857,Accounting,,,
-89,0.25,0.4583,1,0.2143,Software Engineering,,,
-90,0.5,0.5417,1,0.1429,Software Engineering,,,
-91,0.5,0.5417,1,0.0000,Software Engineering,,,
-92,0.75,0.4583,1,0.4286,Network Engineering,,,
-93,0.5,0.5417,1,0.2857,Business Management,,,
-94,0.75,0.6667,1,0.3571,Network Engineering,,,
-95,0.25,0.4583,1,0.2143,Accounting,,,
-96,1,0.7500,1,0.0000,Network Engineering,,,
-97,0.75,0.5417,1,0.0714,Network Engineering,,,
-98,1,0.5417,1,0.2857,Network Engineering,,,
-99,0.75,0.5417,1,0.4286,Network Engineering,,,
-100,1,0.4583,1,0.6429,Application Development,,,
-101,0.75,0.4167,1,0.5000,Network Engineering,,,
-102,0.25,0.5417,1,0.2857,Business Management,,,
-103,0.25,0.6250,1,0.3571,Business Management,,,
-104,0.25,0.4583,1,0.2857,Accounting,,,
-105,0.25,0.7500,1,0.6429,Network Engineering,,,
-106,0.75,0.5833,1,0.2143,Software Engineering,,,
-107,1,0.5417,1,0.0714,Software Engineering,,,
-108,1,0.3750,1,0.2857,Software Engineering,,,
-109,0.75,0.4583,1,0.7143,Software Engineering,,,
-110,0.75,0.6667,1,0.5714,Software Engineering,,,
-111,1,0.4583,1,0.4286,Network Engineering,,,
-112,0.5,0.4583,1,0.2143,Application Development,,,
-113,0.25,0.7083,1,0.1429,Application Development,,,
-114,0.25,0.8333,1,0.2143,Accounting,,,
-115,0.25,0.5417,1,0.4286,Application Development,,,
-116,1,0.4583,1,0.3571,Network Engineering,,,
-117,0.25,0.4583,1,0.4286,Business Management,,,
-118,0.75,0.6667,1,0.2143,Application Development,,,
-119,0,1.0000,1,0.1429,Application Development,,,
-120,0.5,0.6250,1,0.2857,Business Management,,,
-121,0,0.5417,1,0.0714,Application Development,,,
-122,0.25,0.4167,0,0.0714,Accounting,,,
-123,0,0.3750,1,0.5000,Business Management,,,
-124,0,1.0000,1,0.3571,Application Development,,,
-125,0,0.7500,1,0.2857,Application Development,,,
-126,0.25,0.4583,1,0.2143,Network Engineering,,,
-127,0.25,0.6250,1,0.2857,Business Management,,,
-128,0.75,0.6250,1,0.2143,Network Engineering,,,
-129,0.25,0.5417,1,0.1429,Application Development,,,
-130,0.5,0.7500,1,0.2143,Accounting,,,
-131,0.25,0.6250,0,0.2857,Accounting,,,
-132,0.25,0.5000,0,0.3571,Business Management,,,
-133,0.75,0.4583,0,0.2857,Application Development,,,
-134,1,0.4167,0,0.2857,Software Engineering,,,
-135,1,0.7500,0,0.5714,Software Engineering,,,
-136,1,0.4583,1,0.5714,Application Development,,,
-137,1,0.5000,1,0.5000,Software Engineering,,,
-138,0.25,0.4583,0,0.6429,Accounting,,,
-139,0.25,0.5417,1,0.0714,Application Development,,,
-140,1,0.7500,0,0.2857,Application Development,,,
-141,0.25,0.6667,0,0.6429,Network Engineering,,,
-142,0.25,0.5417,1,0.2857,Business Management,,,
-143,0.25,0.4583,1,0.3571,Accounting,,,
-144,0.25,0.4583,1,0.2857,Business Management,,,
-145,0.25,0.6250,1,0.3571,Application Development,,,
-146,0.25,0.8333,1,0.2857,Business Management,,,
-147,0.25,0.7500,1,0.4286,Accounting,,,
-148,0.25,0.7500,1,0.4286,Business Management,,,
-149,0.25,0.4583,1,0.2857,Network Engineering,,,
-150,0.25,0.7500,1,0.3571,Accounting,,,
-151,0.25,0.5833,0,0.0714,Accounting,,,
-152,0.25,0.6250,1,0.4286,Accounting,,,
-153,0.25,0.6250,1,0.2857,Accounting,,,
-154,0.25,0.4583,1,0.4286,Accounting,,,
-155,1,0.4583,0,0.4286,Network Engineering,,,
-156,1,0.3750,0,0.3571,Network Engineering,,,
-157,0.25,0.6250,0,0.4286,Business Management,,,
-158,0.25,0.4583,0,0.0714,Business Management,,,
-159,0.25,0.6667,1,0.2857,Business Management,,,
-160,0.5,0.4583,1,0.4286,Network Engineering,,,
-161,0.25,0.7500,1,0.3571,Network Engineering,,,
-162,0.25,0.8333,1,0.2857,Network Engineering,,,
-163,0.25,0.6250,1,0.4286,Accounting,,,
-164,0.25,0.7500,1,0.3571,Network Engineering,,,
-165,0.25,0.4583,0,0.2143,Accounting,,,
-166,0.25,0.6250,0,0.2857,Business Management,,,
-167,0.25,0.9167,0,0.3571,Accounting,,,
-168,0.25,0.4583,1,0.4286,Accounting,,,
-169,1,0.4167,0,0.3571,Software Engineering,,,
-170,1,0.7500,1,0.1429,Network Engineering,,,
-171,1,0.7083,0,0.2143,Software Engineering,,,
-172,1,0.5000,0,0.2857,Software Engineering,,,
-173,0.25,0.4583,1,0.4286,Accounting,,,
-174,0.5,0.6250,0,0.4286,Network Engineering,,,
-175,0.25,0.6667,0,0.7143,Business Management,,,
-176,0.25,0.7917,1,0.2857,Business Management,,,
-177,0.25,0.5833,1,0.3571,Software Engineering,,,
-178,0.25,0.6250,1,0.2143,Accounting,,,
-179,1,0.4583,1,0.5000,Software Engineering,,,
-180,0.25,0.4583,1,0.5000,Business Management,,,
-181,0.5,0.5000,1,0.0714,Network Engineering,,,
-182,0.25,0.4583,0,0.1429,Business Management,,,
-183,0.25,0.5417,0,0.5714,Software Engineering,,,
-184,0.25,0.7917,0,0.3571,Business Management,,,
-185,0.25,0.6667,0,0.2857,Network Engineering,,,
-186,0.25,0.7500,1,0.5000,Software Engineering,,,
-187,0.25,0.4583,1,0.3571,Accounting,,,
-188,0.25,0.5000,1,0.3571,Accounting,,,
-189,0.25,0.5000,1,0.3571,Accounting,,,
-190,0.25,0.7500,1,0.5714,Business Management,,,
-191,0.25,0.7500,1,0.5000,Accounting,,,
-192,1,0.5000,0,0.2143,Network Engineering,,,
-193,1,0.3333,0,0.2857,Network Engineering,,,
-194,1,0.6667,0,0.5000,Software Engineering,,,
-195,1,0.4167,0,0.2143,Software Engineering,,,
-196,0.25,0.6250,1,0.4286,Network Engineering,,,
-197,0.25,0.4167,0,0.3571,Business Management,,,
-198,0.25,0.4583,0,0.5000,Accounting,,,
-199,1,0.4583,0,0.4286,Network Engineering,,,
+Student,stream_normalised,performance_als_normalised,Gender,age_normalised,Course
+1,1,0.6667,0,0.2143,Software Engineering
+2,1,0.75,0,0.3571,Software Engineering
+3,1,0.8333,0,0.2143,Software Engineering
+4,1,0.75,0,0.6429,Software Engineering
+5,0.75,0.2917,0,0.3571,Software Engineering
+6,1,0.75,0,0.1429,Software Engineering
+7,0.5,0.6667,0,0.5,Software Engineering
+8,1,0.6667,0,0.0714,Network Engineering
+9,1,0.4583,0,0.3571,Software Engineering
+10,0.75,0.375,0,0.2857,Software Engineering
+11,0.25,0.6667,0,0.2143,Software Engineering
+12,1,0.75,0,0.5,Application Development
+13,0.5,0.8333,0,0.4286,Application Development
+14,0.5,0.8333,1,0.4286,Application Development
+15,1,0.9167,0,0.2857,Software Engineering
+16,1,1,1,0.5,Network Engineering
+17,0.25,1,1,0.2857,Business Management
+18,0.25,0.9167,1,0.2143,Business Management
+19,0.25,0.75,1,0.5,Accounting
+20,0.75,0.5,0,0.3571,Network Engineering
+32,0.25,0.5,1,0.2143,Business Management
+33,1,0.75,1,0.3571,Software Engineering
+34,1,0.375,1,0.6429,Network Engineering
+35,0.25,0.75,1,0.4286,Application Development
+36,0.5,0.375,1,0.2857,Business Management
+37,0.25,0.5,1,0.5714,Accounting
+38,1,0.25,1,0.2857,Software Engineering
+39,1,0.4583,1,0.4286,Software Engineering
+40,1,0.75,1,0.4286,Network Engineering
+41,1,0.4583,1,0.3571,Software Engineering
+42,0.25,0.4583,1,0.4286,Business Management
+43,1,0.6667,1,0.4286,Network Engineering
+44,0.5,0.375,1,0.4286,Application Development
+45,0.75,0.6667,0,0.5,Software Engineering
+46,1,0,1,0.4286,Software Engineering
+47,1,0.2917,1,0.1429,Business Management
+48,0.5,0.5417,1,0.2143,Network Engineering
+49,0.5,0.5,0,0.5,Software Engineering
+50,0.25,0.9167,0,0.2857,Business Management
+51,0.25,0.75,0,0.7857,Accounting
+52,1,0.5417,0,1,Software Engineering
+53,1,0.5,0,0.5,Software Engineering
+54,1,0.375,0,0.9286,Business Management
+55,0.5,0.375,0,0.4286,Software Engineering
+56,0.25,0.4583,0,0.4286,Software Engineering
+57,1,0.75,1,0.2143,Business Management
+58,0.75,0.5417,1,0.2857,Software Engineering
+59,0.75,0.75,1,0.3571,Accounting
+60,0.25,0.75,1,0.6429,Business Management
+61,0.25,0.4583,1,0.6429,Business Management
+62,0.5,0.5417,1,0.2857,Business Management
+63,0.5,0.4583,1,0.4286,Business Management
+64,0.75,0.4583,1,0.5,Network Engineering
+65,0.5,0.5417,0,0.2857,Application Development
+66,0.75,0.4583,1,0.3571,Network Engineering
+67,0.5,0.5417,1,0.2857,Accounting
+68,1,0.4583,1,0.2857,Software Engineering
+69,1,0.5417,1,0.2143,Network Engineering
+70,1,0.4583,1,0.2857,Network Engineering
+71,0.5,0.4583,1,0.3571,Business Management
+72,1,0.75,0,0.3571,Software Engineering
+73,0.5,0.8333,1,0.2143,Business Management
+74,0.5,0.5417,1,0.4286,Accounting
+75,1,0.5417,1,0.4286,Network Engineering
+76,0.75,0.5417,1,0.3571,Software Engineering
+77,0.25,0.4583,1,0.2143,Business Management
+78,0.25,0.6667,0,0.6429,Business Management
+79,0.25,0.6667,0,0.3571,Accounting
+80,1,0.25,0,0.4286,Network Engineering
+81,1,0.375,0,0.2143,Network Engineering
+82,0.25,0.4583,0,0.2857,Application Development
+83,0.75,0.5417,0,0.3571,Network Engineering
+84,0.75,0.75,0,0.2857,Software Engineering
+85,1,0.6667,0,0.3571,Software Engineering
+86,0.75,0.75,0,0.2857,Network Engineering
+87,0.75,0.5833,1,0.2143,Network Engineering
+88,0.25,0.6667,1,0.2857,Accounting
+89,0.25,0.4583,1,0.2143,Software Engineering
+90,0.5,0.5417,1,0.1429,Software Engineering
+91,0.5,0.5417,1,0,Software Engineering
+92,0.75,0.4583,1,0.4286,Network Engineering
+93,0.5,0.5417,1,0.2857,Business Management
+94,0.75,0.6667,1,0.3571,Network Engineering
+95,0.25,0.4583,1,0.2143,Accounting
+96,1,0.75,1,0,Network Engineering
+97,0.75,0.5417,1,0.0714,Network Engineering
+98,1,0.5417,1,0.2857,Network Engineering
+99,0.75,0.5417,1,0.4286,Network Engineering
+100,1,0.4583,1,0.6429,Application Development
+101,0.75,0.4167,1,0.5,Network Engineering
+102,0.25,0.5417,1,0.2857,Business Management
+103,0.25,0.625,1,0.3571,Business Management
+104,0.25,0.4583,1,0.2857,Accounting
+105,0.25,0.75,1,0.6429,Network Engineering
+106,0.75,0.5833,1,0.2143,Software Engineering
+107,1,0.5417,1,0.0714,Software Engineering
+108,1,0.375,1,0.2857,Software Engineering
+109,0.75,0.4583,1,0.7143,Software Engineering
+110,0.75,0.6667,1,0.5714,Software Engineering
+111,1,0.4583,1,0.4286,Network Engineering
+112,0.5,0.4583,1,0.2143,Application Development
+113,0.25,0.7083,1,0.1429,Application Development
+114,0.25,0.8333,1,0.2143,Accounting
+115,0.25,0.5417,1,0.4286,Application Development
+116,1,0.4583,1,0.3571,Network Engineering
+117,0.25,0.4583,1,0.4286,Business Management
+118,0.75,0.6667,1,0.2143,Application Development
+119,0,1,1,0.1429,Application Development
+120,0.5,0.625,1,0.2857,Business Management
+121,0,0.5417,1,0.0714,Application Development
+122,0.25,0.4167,0,0.0714,Accounting
+123,0,0.375,1,0.5,Business Management
+124,0,1,1,0.3571,Application Development
+125,0,0.75,1,0.2857,Application Development
+126,0.25,0.4583,1,0.2143,Network Engineering
+127,0.25,0.625,1,0.2857,Business Management
+128,0.75,0.625,1,0.2143,Network Engineering
+129,0.25,0.5417,1,0.1429,Application Development
+130,0.5,0.75,1,0.2143,Accounting
+131,0.25,0.625,0,0.2857,Accounting
+132,0.25,0.5,0,0.3571,Business Management
+133,0.75,0.4583,0,0.2857,Application Development
+134,1,0.4167,0,0.2857,Software Engineering
+135,1,0.75,0,0.5714,Software Engineering
+136,1,0.4583,1,0.5714,Application Development
+137,1,0.5,1,0.5,Software Engineering
+138,0.25,0.4583,0,0.6429,Accounting
+139,0.25,0.5417,1,0.0714,Application Development
+140,1,0.75,0,0.2857,Application Development
+141,0.25,0.6667,0,0.6429,Network Engineering
+142,0.25,0.5417,1,0.2857,Business Management
+143,0.25,0.4583,1,0.3571,Accounting
+144,0.25,0.4583,1,0.2857,Business Management
+145,0.25,0.625,1,0.3571,Application Development
+146,0.25,0.8333,1,0.2857,Business Management
+147,0.25,0.75,1,0.4286,Accounting
+148,0.25,0.75,1,0.4286,Business Management
+149,0.25,0.4583,1,0.2857,Network Engineering
+150,0.25,0.75,1,0.3571,Accounting
+151,0.25,0.5833,0,0.0714,Accounting
+152,0.25,0.625,1,0.4286,Accounting
+153,0.25,0.625,1,0.2857,Accounting
+154,0.25,0.4583,1,0.4286,Accounting
+155,1,0.4583,0,0.4286,Network Engineering
+156,1,0.375,0,0.3571,Network Engineering
+157,0.25,0.625,0,0.4286,Business Management
+158,0.25,0.4583,0,0.0714,Business Management
+159,0.25,0.6667,1,0.2857,Business Management
+160,0.5,0.4583,1,0.4286,Network Engineering
+161,0.25,0.75,1,0.3571,Network Engineering
+162,0.25,0.8333,1,0.2857,Network Engineering
+163,0.25,0.625,1,0.4286,Accounting
+164,0.25,0.75,1,0.3571,Network Engineering
+165,0.25,0.4583,0,0.2143,Accounting
+166,0.25,0.625,0,0.2857,Business Management
+167,0.25,0.9167,0,0.3571,Accounting
+168,0.25,0.4583,1,0.4286,Accounting
+169,1,0.4167,0,0.3571,Software Engineering
+170,1,0.75,1,0.1429,Network Engineering
+171,1,0.7083,0,0.2143,Software Engineering
+172,1,0.5,0,0.2857,Software Engineering
+173,0.25,0.4583,1,0.4286,Accounting
+174,0.5,0.625,0,0.4286,Network Engineering
+175,0.25,0.6667,0,0.7143,Business Management
+176,0.25,0.7917,1,0.2857,Business Management
+177,0.25,0.5833,1,0.3571,Software Engineering
+178,0.25,0.625,1,0.2143,Accounting
+179,1,0.4583,1,0.5,Software Engineering
+180,0.25,0.4583,1,0.5,Business Management
+181,0.5,0.5,1,0.0714,Network Engineering
+182,0.25,0.4583,0,0.1429,Business Management
+183,0.25,0.5417,0,0.5714,Software Engineering
+184,0.25,0.7917,0,0.3571,Business Management
+185,0.25,0.6667,0,0.2857,Network Engineering
+186,0.25,0.75,1,0.5,Software Engineering
+187,0.25,0.4583,1,0.3571,Accounting
+188,0.25,0.5,1,0.3571,Accounting
+189,0.25,0.5,1,0.3571,Accounting
+190,0.25,0.75,1,0.5714,Business Management
+191,0.25,0.75,1,0.5,Accounting
+192,1,0.5,0,0.2143,Network Engineering
+193,1,0.3333,0,0.2857,Network Engineering
+194,1,0.6667,0,0.5,Software Engineering
+195,1,0.4167,0,0.2143,Software Engineering
+196,0.25,0.625,1,0.4286,Network Engineering
+197,0.25,0.4167,0,0.3571,Business Management
+198,0.25,0.4583,0,0.5,Accounting
+199,1,0.4583,0,0.4286,Network Engineering

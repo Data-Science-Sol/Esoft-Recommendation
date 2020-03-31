@@ -62,10 +62,23 @@ df3.to_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data 
 df4 = pd.read_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_numericf.csv')
 
 stream = df4[['Stream(A/L)']].values.astype(float)
+performance_als = df4[['A/L Performance']].values.astype(float)
+age = df4[['Age']].values.astype(float)
+
 
 min_max_scaler = preprocessing.MinMaxScaler()
 
 stream_scaled = min_max_scaler.fit_transform(stream)
+performance_als_scaled = min_max_scaler.fit_transform(performance_als)
+age_scaled = min_max_scaler.fit_transform(age)
+
+df4['stream_normalised'] = stream_scaled
+df4['performance_als_normalised'] = performance_als_scaled
+df4['age_normalised'] = age_scaled
+
+df4.to_csv('C:/Users/achin/OneDrive - Imperial College London/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/data/preprocessed_student_details_numeric_normalized.csv',index = False)
+
+
 
 
 
