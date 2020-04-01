@@ -7,12 +7,12 @@ Created on Tue Mar 31 10:17:41 2020
 
 import matplotlib.pyplot as plt
 
-import numpy as np
+
 import pandas as pd
 
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
-from joblib import dump,load
+from joblib import dump
 
 #%%
 
