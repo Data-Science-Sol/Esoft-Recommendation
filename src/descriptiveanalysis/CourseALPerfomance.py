@@ -13,7 +13,7 @@ import plotly.graph_objs as go
 import plotly.figure_factory as ff
 
 #Input : preprocessed_student_details_f1.csv
-$Output : CourseALPerfomance.PNG
+$Output : results/descriptiveanalysis/CourseALPerfomance.PNG
 
 df = pandas.read_csv('preprocessed_student_details_f1.csv')
 

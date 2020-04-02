@@ -10,7 +10,7 @@ sns.set(style="darkgrid")
 
 #Plot Age Vs Success
 #Input : preprocessed_student_details.csv
-#Output : results/AgeSuccess.PNG
+#Output : results/\descriptiveanalysis/AgeSuccess.PNG
 #Columns Age,Course, Stream(A/L), Results Dimension Reduced,Gender,Success
 
 #Columns Age,Course, Stream(A/L), Results Dimension Reduced,Gender,Success

@@ -5,7 +5,7 @@ sns.set()
 %matplotlib inline
 
 #Input : preprocessed_student_details_f1.csv
-Output : StreamAL.png
+Output : results/descriptiveanalysis/StreamAL.png
 
 df = pandas.read_csv('preprocessed_student_details_f1.csv')
 

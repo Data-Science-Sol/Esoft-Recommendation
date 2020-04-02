@@ -17,7 +17,7 @@ df = pandas.read_csv('preprocessed_student_details_f1.csv')
 import plotly.io as pio
 
 #Input : preprocessed_student_details_f1.csv
-#Output : StreamALInteractive.PNG
+#Output : results/descriptiveanalysis/StreamALInteractive.PNG
 
 stream = df.StreamAL
 perormance = df.ALPerformance

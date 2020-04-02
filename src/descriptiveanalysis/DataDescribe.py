@@ -9,7 +9,7 @@ import seaborn as sns
 
 #Describe Data
 #Input : StudentDetails.csv in data folder
-#Results : DataDescribe.png
+#Results : results/descriptiveanalysis/DataDescribe.png
 
 sns.set(style="darkgrid")
 

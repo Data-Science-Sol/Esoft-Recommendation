@@ -10,7 +10,7 @@ sns.set(style="darkgrid")
 
 #Plot Course Vs Success
 #Input : preprocessed_student_details.csv
-#Output : results/CourseSuccess.PNG
+#Output : results/descriptiveanalysis/CourseSuccess.PNG
 
 #Columns Age,Course, Stream(A/L), Results Dimension Reduced,Gender,Success
 names = ['Age','Course','Stream','Results', 'Gender','Success']
