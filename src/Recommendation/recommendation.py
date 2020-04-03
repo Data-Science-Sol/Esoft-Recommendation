@@ -13,6 +13,8 @@ import pandas as pd
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from joblib import dump
+from sklearn import svm
+from sklearn.neighbors import KNeighborsClassifier
 
 #%%
 
@@ -69,9 +71,12 @@ train = pd.read_csv('C:/Imperial Drive/Achintha/PhD/Data Science/Group project/E
 
 X_train = train.drop(columns=['Student', 'Course']) 
 y_train = train.Course
-clf = MultinomialNB()
+clf1 = MultinomialNB()
+clf2 = KNeighborsClassifier(5)
 
-model = clf.fit(X_train,y_train)
+
+model1 = clf1.fit(X_train,y_train)
+model2 = clf2.fit(X_train,y_train)
 
 #%%
 
@@ -82,14 +87,15 @@ X_test = test.drop(columns = ['Student', 'Course'])
 y_test = test.Course
 
 
-pred_probs = model.predict_proba(X_test)
+pred_probs1 = model1.predict_proba(X_test)
+pred_probs2 = model2.predict_proba(X_test)
 
 predictions =[]
 
 for i in range(len(test)):
     recommentations = []
     for j in range(5):
-        if pred_probs[i][j]>0.2:
+        if pred_probs2[i][j]>0:
             recommentations.append(j+1)
     
     predictions.append(recommentations)
@@ -102,7 +108,11 @@ for i in range(len(test)):
 
 Accuracy = correct_predictions/len(test)
 print(Accuracy)
+#%%
+
+
 dump(model, 'C:/Imperial Drive/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/multinomialNB.joblib')
+dump(model2, 'C:/Imperial Drive/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/KnearestNeighbour.joblib')
 
 
 

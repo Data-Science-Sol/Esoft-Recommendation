@@ -7,12 +7,12 @@ Created on Wed Apr  1 12:50:35 2020
 from joblib import load
 import numpy as np
 #inputs 
-stream = "Biological Science"
-alresults1 = "B"
+stream = "Engineering Technology"
+alresults1 = "C"
 alresults2 = "C"
 alresults3 = "S"
-Gender = "Male"
-Age = 24
+Gender = "Female"
+Age = 16
 
 # feature encoding
 
@@ -33,7 +33,7 @@ age_norm = (Age-16)/14
 #model predictions
 
 
-model = load('C:/Imperial Drive/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/multinomialNB.joblib') 
+model = load('C:/Imperial Drive/Achintha/PhD/Data Science/Group project/Esoft-Recommendation/KnearestNeighbour.joblib') 
 predictions = model.predict_proba(np.array([[stream_en_norm,alresults_en_norm,genderen,age_norm]]))
 
 recommendations_list = ["Accounting","Software Engineering","Application Development","Network Engineering","Business Management"]
