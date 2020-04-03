@@ -6,4 +6,4 @@ sns.set()
 
 df = pandas.read_csv('preprocessed_student_details_f1.csv')
 
-sns.pairplot(df, hue='Course');
+sns.pairplot(df, hue='Course',vars=["A/L Performance","Age"]);
